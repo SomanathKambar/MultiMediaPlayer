@@ -1,6 +1,6 @@
 package com.somanath.multimediaplayer
 
-import androidx.multidex.MultiDexApplication
+import android.support.multidex.MultiDexApplication
 
 class MultiMediaApplication: MultiDexApplication() {
 }

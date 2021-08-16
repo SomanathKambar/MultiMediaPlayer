@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MultiMediaPlayer</string>
     <string name="media_url_mp3">" https://storage.googleapis.com/exoplayer-test-media-0/play.mp3"</string>
+    <string name="msg_playback_ended">playback ended</string>
+    <string name="msg_playback_started">playback started</string>
+    <string name="msg_playback_paused">playback paused</string>
 </resources>
